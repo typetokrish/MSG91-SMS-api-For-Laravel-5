@@ -1,0 +1,14 @@
+{
+    "name": "typetokrish/msg91sms",
+    "description": "Msg91 SMS api for Laravel",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Kiran Krishnan",
+            "email": "typetokrish@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
